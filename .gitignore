@@ -1,0 +1,23 @@
+# Jupyter 临时文件（每次运行都会生成，不需要提交）
+.ipynb_checkpoints/
+
+# 运行产生的数据文件
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
